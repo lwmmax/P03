@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="A"
+        android:visible="true" />
+    <item
+        android:id="@+id/BFragment"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="B" />
+    <item
+        android:id="@+id/CFragment"
+        android:icon="@drawable/ic_baseline_looks_3_24"
+        android:title="C" />
+    <item
+        android:id="@+id/DFragment"
+        android:icon="@drawable/ic_baseline_looks_4_24"
+        android:title="D" />
+</menu>
