@@ -73,7 +73,7 @@ public class DFragment extends Fragment {
            @Override
            public void onClick(View v) {
 
-               Toast.makeText(getActivity(),"我现在想妈妈了！我最爱她了。她是最好的妈妈！",Toast.LENGTH_SHORT).show();
+               Toast.makeText(getActivity(),"我现在想妈妈了！",Toast.LENGTH_SHORT).show();
            }
        });
        button2 = view.findViewById(R.id.button_d2);
